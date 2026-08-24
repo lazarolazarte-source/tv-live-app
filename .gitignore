@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/local.properties
+.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Firma de release: nunca subir esto a un repo público
+keystore.properties
+*.jks
+*.keystore
